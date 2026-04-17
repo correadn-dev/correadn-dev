@@ -26,7 +26,7 @@ My approach combines strong technical skills with a clear understanding of busin
 
 <h2>💼 Experience</h2>
 
-<p><strong>Systems Intern | Software Development & Process Automation</strong></p>
+<h3 align="center">Backend Developer | Django · .NET · React | Automation & Business Systems</h3>
 
 <ul>
 <li>Automated administrative processes using Microsoft Power Platform.</li>
