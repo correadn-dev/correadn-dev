@@ -214,5 +214,6 @@ Outside of software, I enjoy music and sports. As a DJ, I create engaging experi
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=correadn-dev&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correadn-dev&layout=compact&theme=dark&hide_border=true" />
 </p>
