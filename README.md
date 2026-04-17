@@ -10,15 +10,15 @@
 
 <h2>🚀 About Me</h2>
 
-<p>
+<p align="justify">
 Software Engineering student with hands-on experience in web development, process automation, and business-oriented systems.
 </p>
 
-<p>
+<p align="justify">
 I design scalable and maintainable applications that improve operational efficiency and support data-driven decision-making.
 </p>
 
-<p>
+<p align="justify">
 My approach combines strong technical skills with a clear understanding of business needs to deliver solutions with real impact.
 </p>
 
@@ -32,44 +32,58 @@ My approach combines strong technical skills with a clear understanding of busin
 <li>Automated administrative processes using Microsoft Power Platform.</li>
 <li>Developed a Power Apps solution that digitized a fully manual approval workflow.</li>
 <li>Reduced response times and eliminated manual reporting processes.</li>
-<li>Developed backend modules and data structures using Django and PostgreSQL.</li>
-<li>Refactored a legacy system, improving security and user experience (UI/UX).</li>
-<li>Designed high-fidelity prototypes in Figma validated by stakeholders.</li>
-<li>Built Power BI dashboards to support real-time decision-making.</li>
+<li>Developed backend modules using Django and PostgreSQL.</li>
+<li>Refactored a legacy system, improving security and UI/UX.</li>
+<li>Designed high-fidelity prototypes in Figma.</li>
+<li>Built Power BI dashboards for real-time decision-making.</li>
 </ul>
 
 ---
 
 <h2>🧩 Projects</h2>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 <h3>🔹 Process Automation System</h3>
 <ul>
-<li>Built with Power Apps and Power Automate.</li>
-<li>Digitized workflows and approval processes.</li>
-<li>Improved operational efficiency.</li>
+<li>Power Apps & Power Automate</li>
+<li>Workflow digitalization</li>
+<li>Operational efficiency</li>
 </ul>
 
-<h3>🔹 Business Intelligence Dashboard</h3>
+<h3>🔹 Business Intelligence</h3>
 <ul>
-<li>Developed in Power BI.</li>
-<li>Centralized KPIs and metrics.</li>
-<li>Enabled data-driven decisions.</li>
+<li>Power BI dashboards</li>
+<li>KPI centralization</li>
+<li>Data-driven decisions</li>
 </ul>
+
+</td>
+
+<td width="50%" valign="top">
 
 <h3>🔹 Legacy System Refactor</h3>
 <ul>
-<li>Improved architecture and maintainability.</li>
-<li>Implemented secure authentication.</li>
-<li>Enhanced UI/UX.</li>
+<li>Architecture improvement</li>
+<li>Secure authentication</li>
+<li>UI/UX enhancement</li>
 </ul>
 
 <h3>🔹 Academic Projects</h3>
 <ul>
-<li>Order Management System (Java)</li>
-<li>Library Management System (Java)</li>
-<li>Clean Code Review Manager</li>
-<li>Backend Performance Analysis</li>
+<li>Order Management (Java)</li>
+<li>Library System (Java)</li>
+<li>Clean Code Manager</li>
+<li>Performance Analysis</li>
 </ul>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -77,36 +91,40 @@ My approach combines strong technical skills with a clear understanding of busin
 
 <table>
 <tr>
-<td width="50%">
 
+<td valign="top">
 <strong>Backend</strong>
 <ul>
 <li>Python (Django)</li>
 <li>.NET (ASP.NET Core)</li>
 </ul>
+</td>
 
+<td valign="top">
+<strong>Frontend</strong>
+<ul>
+<li>HTML, CSS, JavaScript</li>
+<li>React</li>
+</ul>
+</td>
+
+<td valign="top">
+<strong>Mobile</strong>
+<ul>
+<li>.NET MAUI</li>
+</ul>
+</td>
+
+<td valign="top">
 <strong>Databases</strong>
 <ul>
 <li>PostgreSQL</li>
 <li>SQL Server</li>
 <li>SQLite</li>
 </ul>
-
 </td>
 
-<td width="50%">
-
-<strong>Frontend</strong>
-<ul>
-<li>HTML, CSS, JavaScript</li>
-<li>React</li>
-</ul>
-
-<strong>Mobile</strong>
-<ul>
-<li>.NET MAUI</li>
-</ul>
-
+<td valign="top">
 <strong>Tools</strong>
 <ul>
 <li>Power Platform</li>
@@ -115,40 +133,52 @@ My approach combines strong technical skills with a clear understanding of busin
 <li>n8n</li>
 <li>Figma</li>
 </ul>
-
 </td>
+
 </tr>
 </table>
 
 ---
 
-<h2>🎯 Current Focus</h2>
+<h2>🎯 Focus & Work</h2>
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<strong>🎯 Current Focus</strong>
 <ul>
-<li>Scalable backend architecture.</li>
-<li>DevOps and CI/CD pipelines.</li>
-<li>Full-stack development (Django + React).</li>
-<li>Business process automation.</li>
-<li>AI as decision-support.</li>
+<li>Scalable backend architecture</li>
+<li>DevOps & CI/CD</li>
+<li>Full-stack (Django + React)</li>
+<li>Process automation</li>
+<li>AI decision-support</li>
 </ul>
 
----
+</td>
 
-<h2>🚀 Featured Work</h2>
+<td width="50%" valign="top">
 
+<strong>🚀 Featured Work</strong>
 <ul>
-<li>Process automation systems.</li>
-<li>Web applications with Django.</li>
-<li>React-based interfaces.</li>
-<li>Business intelligence dashboards.</li>
+<li>Automation systems</li>
+<li>Django applications</li>
+<li>React interfaces</li>
+<li>BI dashboards</li>
 </ul>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <h2>🔗 Additional Work</h2>
 
 <p>
-You can also find more projects and experiments here:
+More projects and experiments:
 </p>
 
 <ul>
@@ -163,12 +193,8 @@ Secondary GitHub (learning & experiments)
 
 <h2>🧠 Beyond Code</h2>
 
-<p>
-Outside of software, I enjoy music and sports.
-</p>
-
-<p>
-As a DJ, I create engaging experiences through music. Football has strengthened my teamwork, strategy, and communication.
+<p align="justify">
+Outside of software, I enjoy music and sports. As a DJ, I create engaging experiences through music. Football has strengthened my teamwork, strategy, and communication.
 </p>
 
 ---
@@ -190,5 +216,5 @@ As a DJ, I create engaging experiences through music. Football has strengthened 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
