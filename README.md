@@ -207,13 +207,15 @@ Outside of software, I enjoy music and sports. As a DJ, I create engaging experi
 
 ---
 
-<h2 align="center">⚡ Profile Activity</h2>
+<h2 align="center">⚡ Tech & Activity</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%7C+.NET+%7C+React;Process+Automation;Unity+%7C+Gamification" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%7C+.NET+%7C+React;Process+Automation;Unity+%7C+Gamification" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=correadn-dev&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correadn-dev&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
