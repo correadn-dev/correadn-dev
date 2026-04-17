@@ -1,118 +1,164 @@
-# Hi, I'm Diego Correa 👋
+<h1 align="center">Hi, I'm Diego Correa 👋</h1>
 
-### Software Engineering Student | Backend Developer | Process Automation
+<h3 align="center">Software Engineering Student | Backend Developer | Process Automation</h3>
 
+<p align="center">
 💡 Focused on building systems that create real business impact.
+</p>
 
 ---
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
+<p>
 Software Engineering student with practical experience in web development, process automation, and business-oriented systems.
+</p>
 
+<p>
 I specialize in building scalable and maintainable applications that improve operational efficiency and support data-driven decision-making.
+</p>
 
+<p>
 I combine technical development with a strong understanding of business needs to deliver solutions with real impact.
+</p>
 
 ---
 
-## 💼 Experience
+<h2>💼 Experience</h2>
 
-**Systems Intern | Software Development & Process Automation**
+<p><strong>Systems Intern | Software Development & Process Automation</strong></p>
 
-- Automated administrative processes using Microsoft Power Platform  
-- Developed a Power Apps solution that digitized a fully manual approval process  
-- Reduced response times and eliminated manual reporting workflows  
-- Designed and developed core modules of a custom system (**Sky Ops**) using Django and PostgreSQL  
-- Refactored a legacy system, improving security and user experience (UI/UX)  
-- Designed high-fidelity prototypes in Figma validated by management  
-- Built Power BI dashboards to support real-time decision-making  
-
----
-
-## 🧩 Projects
-
-### 🔹 Sky Ops System
-- Designed system architecture and database (Django + PostgreSQL)
-- Developed core operational modules
-- Created high-fidelity UI prototypes in Figma
-
-### 🔹 Process Automation App
-- Built with Power Apps + Power Automate
-- Digitized internal workflows and approvals
-- Reduced manual workload and improved efficiency
-
-### 🔹 Business Intelligence Dashboard
-- Built in Power BI
-- Centralized KPIs and operational metrics
-- Enabled data-driven decision-making
-
-### 🔹 Legacy System Refactor (Team Sight)
-- Improved system architecture and maintainability
-- Implemented secure authentication
-- Redesigned UI for better user experience
+<ul>
+<li>Automated administrative processes using Microsoft Power Platform.</li>
+<li>Developed a Power Apps solution that digitized a fully manual approval process.</li>
+<li>Reduced response times and eliminated manual reporting workflows.</li>
+<li>Developed backend modules and data structures using Django and PostgreSQL.</li>
+<li>Refactored a legacy system, improving security and user experience (UI/UX).</li>
+<li>Designed high-fidelity prototypes in Figma validated by management.</li>
+<li>Built Power BI dashboards to support real-time decision-making.</li>
+</ul>
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🧩 Projects</h2>
 
-**Backend**
-- Python
-- Django
+<h3>🔹 Process Automation App</h3>
+<ul>
+<li>Built with Power Apps and Power Automate.</li>
+<li>Digitized internal workflows and approval processes.</li>
+<li>Reduced manual workload and improved operational efficiency.</li>
+</ul>
 
-**Frontend**
-- HTML, CSS, JavaScript
-- React
+<h3>🔹 Business Intelligence Dashboard</h3>
+<ul>
+<li>Developed in Power BI.</li>
+<li>Centralized KPIs and operational metrics.</li>
+<li>Enabled data-driven decision-making.</li>
+</ul>
 
-**Database**
-- PostgreSQL
+<h3>🔹 Legacy System Refactor</h3>
+<ul>
+<li>Improved system architecture and maintainability.</li>
+<li>Implemented secure authentication.</li>
+<li>Enhanced UI/UX for better usability.</li>
+</ul>
 
-**Tools & Platforms**
-- Microsoft Power Platform (Power Apps, Power Automate, Power BI)
-- Git & GitFlow
-- CI/CD Fundamentals
-- Figma
-
----
-
-## 🎯 Current Focus
-
-- Backend architecture and scalable systems  
-- DevOps practices and CI/CD pipelines  
-- Building full-stack applications (Django + React)  
-- AI as decision-support in software systems  
-
----
-
-## 🚀 Featured Work
-
-Check out my repositories to see real implementations of:
-- Process automation systems  
-- Web applications with Django  
-- Frontend interfaces with React  
-- Business intelligence dashboards  
+<h3>🔹 Additional Academic & Technical Projects</h3>
+<ul>
+<li>Order Management System (Java)</li>
+<li>Library Management System (Java)</li>
+<li>Clean Code Review Manager (HTML/JS)</li>
+<li>Backend Performance Analysis (Python)</li>
+</ul>
 
 ---
 
-## 🧠 Beyond Code
+<h2>🛠️ Tech Stack</h2>
 
-Outside of software, I enjoy music and sports.
+<p><strong>Backend</strong></p>
+<ul>
+<li>Python (Django)</li>
+<li>.NET MAUI</li>
+</ul>
 
-As a DJ, I like mixing rhythms to create engaging experiences. Football has taught me teamwork, strategy, and communication.
+<p><strong>Frontend</strong></p>
+<ul>
+<li>HTML, CSS, JavaScript</li>
+<li>React</li>
+</ul>
 
+<p><strong>Databases</strong></p>
+<ul>
+<li>PostgreSQL</li>
+<li>SQL Server</li>
+<li>SQLite</li>
+</ul>
+
+<p><strong>Tools & Platforms</strong></p>
+<ul>
+<li>Microsoft Power Platform (Power Apps, Power Automate, Power BI)</li>
+<li>Git & GitFlow</li>
+<li>CI/CD fundamentals</li>
+<li>n8n (workflow automation)</li>
+<li>Figma</li>
+</ul>
+
+---
+
+<h2>🎯 Current Focus</h2>
+
+<ul>
+<li>Backend architecture and scalable systems.</li>
+<li>DevOps practices and CI/CD pipelines.</li>
+<li>Full-stack development with Django and React.</li>
+<li>Automation and integration of business processes.</li>
+<li>AI as a decision-support tool in software systems.</li>
+</ul>
+
+---
+
+<h2>🚀 Featured Work</h2>
+
+<p>
+Explore my repositories to see practical implementations of:
+</p>
+
+<ul>
+<li>Process automation systems.</li>
+<li>Web applications with Django.</li>
+<li>Frontend interfaces with React.</li>
+<li>Business intelligence dashboards.</li>
+</ul>
+
+---
+
+<h2>🧠 Beyond Code</h2>
+
+<p>
+Outside of software development, I enjoy music and sports.
+</p>
+
+<p>
+As a DJ, I enjoy mixing rhythms to create engaging experiences. Football has taught me teamwork, strategy, and communication.
+</p>
+
+<p>
 These interests shape my mindset: creative, analytical, and collaborative.
+</p>
 
 ---
 
-## 📫 Contact
+<h2>📫 Contact</h2>
 
-- 📍 Quito, Ecuador  
-- 📧 dc538752@gmail.com  
-- 🎓 diego.correa.cumbicus@udla.edu.ec  
+<ul>
+<li>📍 Quito, Ecuador</li>
+<li>📧 dc538752@gmail.com</li>
+<li>🎓 diego.correa.cumbicus@udla.edu.ec</li>
+</ul>
 
 ---
 
-## ⚡ Live Profile Animation
+<h2 align="center">⚡ Profile Activity</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%7C+React;Process+Automation;Building+Real+World+Solutions" />
