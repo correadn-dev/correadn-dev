@@ -15,7 +15,7 @@ Software Engineering student with hands-on experience in web development, proces
 </p>
 
 <p>
-I focus on designing and developing scalable, maintainable applications that improve operational efficiency and support data-driven decision-making.
+I design scalable and maintainable applications that improve operational efficiency and support data-driven decision-making.
 </p>
 
 <p>
@@ -45,94 +45,118 @@ My approach combines strong technical skills with a clear understanding of busin
 <h3>🔹 Process Automation System</h3>
 <ul>
 <li>Built with Power Apps and Power Automate.</li>
-<li>Digitized internal workflows and approval processes.</li>
-<li>Improved operational efficiency and reduced manual workload.</li>
+<li>Digitized workflows and approval processes.</li>
+<li>Improved operational efficiency.</li>
 </ul>
 
 <h3>🔹 Business Intelligence Dashboard</h3>
 <ul>
 <li>Developed in Power BI.</li>
-<li>Centralized KPIs and operational metrics.</li>
-<li>Enabled data-driven decision-making.</li>
+<li>Centralized KPIs and metrics.</li>
+<li>Enabled data-driven decisions.</li>
 </ul>
 
 <h3>🔹 Legacy System Refactor</h3>
 <ul>
-<li>Improved system architecture and maintainability.</li>
-<li>Implemented secure authentication mechanisms.</li>
-<li>Enhanced UI/UX for better usability.</li>
+<li>Improved architecture and maintainability.</li>
+<li>Implemented secure authentication.</li>
+<li>Enhanced UI/UX.</li>
 </ul>
 
-<h3>🔹 Academic & Technical Projects</h3>
+<h3>🔹 Academic Projects</h3>
 <ul>
 <li>Order Management System (Java)</li>
 <li>Library Management System (Java)</li>
-<li>Clean Code Review Manager (HTML, CSS, JavaScript)</li>
-<li>Backend Performance Analysis (Python)</li>
+<li>Clean Code Review Manager</li>
+<li>Backend Performance Analysis</li>
 </ul>
 
 ---
 
 <h2>🛠️ Tech Stack</h2>
 
-<p><strong>Backend</strong></p>
+<table>
+<tr>
+<td width="50%">
+
+<strong>Backend</strong>
 <ul>
 <li>Python (Django)</li>
 <li>.NET (ASP.NET Core)</li>
 </ul>
 
-<p><strong>Frontend</strong></p>
-<ul>
-<li>HTML, CSS, JavaScript</li>
-<li>React</li>
-</ul>
-
-<p><strong>Mobile</strong></p>
-<ul>
-<li>.NET MAUI</li>
-</ul>
-
-<p><strong>Databases</strong></p>
+<strong>Databases</strong>
 <ul>
 <li>PostgreSQL</li>
 <li>SQL Server</li>
 <li>SQLite</li>
 </ul>
 
-<p><strong>Tools & Platforms</strong></p>
+</td>
+
+<td width="50%">
+
+<strong>Frontend</strong>
 <ul>
-<li>Microsoft Power Platform (Power Apps, Power Automate, Power BI)</li>
+<li>HTML, CSS, JavaScript</li>
+<li>React</li>
+</ul>
+
+<strong>Mobile</strong>
+<ul>
+<li>.NET MAUI</li>
+</ul>
+
+<strong>Tools</strong>
+<ul>
+<li>Power Platform</li>
 <li>Git & GitFlow</li>
-<li>CI/CD fundamentals</li>
-<li>n8n (workflow automation)</li>
+<li>CI/CD</li>
+<li>n8n</li>
 <li>Figma</li>
 </ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <h2>🎯 Current Focus</h2>
 
 <ul>
-<li>Designing scalable backend architectures.</li>
-<li>Applying DevOps practices and CI/CD pipelines.</li>
-<li>Building full-stack applications (Django + React).</li>
-<li>Automating and integrating business processes.</li>
-<li>Exploring AI as a decision-support tool.</li>
+<li>Scalable backend architecture.</li>
+<li>DevOps and CI/CD pipelines.</li>
+<li>Full-stack development (Django + React).</li>
+<li>Business process automation.</li>
+<li>AI as decision-support.</li>
 </ul>
 
 ---
 
 <h2>🚀 Featured Work</h2>
 
-<p>
-Explore my repositories to see implementations of:
-</p>
-
 <ul>
 <li>Process automation systems.</li>
 <li>Web applications with Django.</li>
-<li>Frontend interfaces built with React.</li>
+<li>React-based interfaces.</li>
 <li>Business intelligence dashboards.</li>
+</ul>
+
+---
+
+<h2>🔗 Additional Work</h2>
+
+<p>
+You can also find more projects and experiments here:
+</p>
+
+<ul>
+<li>
+<a href="https://github.com/DiegoCorrea07">
+Secondary GitHub (learning & experiments)
+</a>
+</li>
 </ul>
 
 ---
@@ -140,15 +164,11 @@ Explore my repositories to see implementations of:
 <h2>🧠 Beyond Code</h2>
 
 <p>
-Outside of software development, I enjoy music and sports.
+Outside of software, I enjoy music and sports.
 </p>
 
 <p>
-As a DJ, I like creating engaging experiences through music. Football has strengthened my teamwork, strategy, and communication skills.
-</p>
-
-<p>
-These interests shape my mindset: creative, analytical, and collaborative.
+As a DJ, I create engaging experiences through music. Football has strengthened my teamwork, strategy, and communication.
 </p>
 
 ---
