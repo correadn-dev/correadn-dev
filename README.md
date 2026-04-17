@@ -137,6 +137,8 @@ My approach combines strong technical skills with a clear understanding of busin
 <ul>
 <li>Power Platform</li>
 <li>Git & GitFlow</li>
+<li>GitLab</li>
+<li>Docker</li>
 <li>CI/CD</li>
 <li>n8n</li>
 <li>Figma</li>
@@ -152,7 +154,7 @@ My approach combines strong technical skills with a clear understanding of busin
 
 <ul>
 <li>Scalable backend architecture</li>
-<li>DevOps & CI/CD pipelines</li>
+<li>DevOps practices with Docker and GitLab CI/CD</li>
 <li>Full-stack development (Django + React)</li>
 <li>Process automation</li>
 <li>AI as a decision-support tool</li>
@@ -210,16 +212,16 @@ Outside of software, I enjoy music and sports. As a DJ, I create engaging experi
 <h2 align="center">⚡ Tech & Activity</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%7C+.NET+%7C+React;Power+Platform+%7C+Automation;Unity+%7C+Gamification" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Django+%7C+.NET+%7C+React;Power+Platform+%7C+Automation;Docker+%7C+CI%2FCD;Unity+%7C+Gamification" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <p align="center">
