@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Diego Correa 👋</h1>
 
-<h3 align="center">Backend Developer | Django · .NET · React | Process Automation</h3>
+<h3 align="center">Backend Developer | Django · .NET · React | Automation & Business Systems</h3>
 
 <p align="center">
 💡 Building scalable systems that solve real business problems.
@@ -26,16 +26,16 @@ My approach combines strong technical skills with a clear understanding of busin
 
 <h2>💼 Experience</h2>
 
-<h3 align="center">Backend Developer | Django · .NET · React | Automation & Business Systems</h3>
+<p><strong>Systems Intern | Software Development & Process Automation</strong></p>
 
 <ul>
-<li>Automated administrative processes using Microsoft Power Platform.</li>
-<li>Developed a Power Apps solution that digitized a fully manual approval workflow.</li>
-<li>Reduced response times and eliminated manual reporting processes.</li>
-<li>Developed backend modules using Django and PostgreSQL.</li>
-<li>Refactored a legacy system, improving security and UI/UX.</li>
+<li>Automated administrative workflows using Microsoft Power Platform.</li>
+<li>Developed a Power Apps solution that digitized a fully manual approval process.</li>
+<li>Reduced response times and eliminated manual reporting.</li>
+<li>Built backend modules using Django and PostgreSQL.</li>
+<li>Refactored a legacy system, improving security and user experience (UI/UX).</li>
 <li>Designed high-fidelity prototypes in Figma.</li>
-<li>Built Power BI dashboards for real-time decision-making.</li>
+<li>Created Power BI dashboards for real-time insights and decision-making.</li>
 </ul>
 
 ---
