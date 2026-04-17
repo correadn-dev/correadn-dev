@@ -77,7 +77,7 @@ My approach combines strong technical skills with a clear understanding of busin
 <li>Order Management (Java)</li>
 <li>Library System (Java)</li>
 <li>Clean Code Manager</li>
-<li>Performance Analysis</li>
+<li>Backend Performance Analysis</li>
 </ul>
 
 </td>
@@ -125,6 +125,14 @@ My approach combines strong technical skills with a clear understanding of busin
 </td>
 
 <td valign="top">
+<strong>Game & UX</strong>
+<ul>
+<li>Unity (C#)</li>
+<li>Gamification principles</li>
+</ul>
+</td>
+
+<td valign="top">
 <strong>Tools</strong>
 <ul>
 <li>Power Platform</li>
@@ -140,38 +148,28 @@ My approach combines strong technical skills with a clear understanding of busin
 
 ---
 
-<h2>🎯 Focus & Work</h2>
+<h2>🎯 Current Focus</h2>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<strong>🎯 Current Focus</strong>
 <ul>
 <li>Scalable backend architecture</li>
-<li>DevOps & CI/CD</li>
-<li>Full-stack (Django + React)</li>
+<li>DevOps & CI/CD pipelines</li>
+<li>Full-stack development (Django + React)</li>
 <li>Process automation</li>
-<li>AI decision-support</li>
+<li>AI as a decision-support tool</li>
+<li>Applying gamification concepts to improve user engagement</li>
 </ul>
 
-</td>
+---
 
-<td width="50%" valign="top">
+<h2>🚀 Featured Work</h2>
 
-<strong>🚀 Featured Work</strong>
 <ul>
-<li>Automation systems</li>
-<li>Django applications</li>
-<li>React interfaces</li>
-<li>BI dashboards</li>
+<li>Process automation systems</li>
+<li>Web applications with Django</li>
+<li>React-based interfaces</li>
+<li>Business intelligence dashboards</li>
+<li>Game development experiments with Unity</li>
 </ul>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -212,7 +210,7 @@ Outside of software, I enjoy music and sports. As a DJ, I create engaging experi
 <h2 align="center">⚡ Profile Activity</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%7C+.NET+%7C+React;Process+Automation;Building+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%7C+.NET+%7C+React;Process+Automation;Unity+%7C+Gamification" />
 </p>
 
 <p align="center">
